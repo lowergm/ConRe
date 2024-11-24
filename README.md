@@ -16,11 +16,11 @@ Crie containers que facilitam o desenvolvimento e compartilhamento de seu projet
 - -h, --help: Mostre as funcionalidades de cada comando
 - -r, --run: Rodar o conre.cr e executar o containe
 - -m, --main: Rodar o arquivo principal referenciado no conre.cr
-- -i, --init: Inicializar o ConRe
+- -i, --init: Criar o conre.cr
 - -v, --version: Mostrar a versão do ConRe
 
-🌐 Documentação:
-Docs aq
-
-🌐 GitHub
-GitHub aq
+🖱️ Instalação:
+- Clone o GitHub do projeto e rode o arquivo ConRe.py com o seguinte commando:
+```bash
+python3 ConRe.py -i
+```
