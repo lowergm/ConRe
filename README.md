@@ -22,9 +22,9 @@ Crie containers que facilitam o desenvolvimento e compartilhamento de seu projet
 ## 🖱️ Instalação:
 - Clone o GitHub do projeto e rode o arquivo ConRe.py com o seguinte commando
 ```bash
-python3 ConRe.py -i
+python3 ConRe.py -h
 ```
 ou
 ```bash
-python3 ConRe/ConRe.py -i
+python3 ConRe/ConRe.py -h
 ```
