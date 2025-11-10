@@ -1,8 +1,6 @@
 # ConRe
 A simple tool to facilitate the creation of your projects, or codes 
 
-<img src="ConRe.png">
-
 **ConRe: Um gerenciador de containers**
 
 Crie containers que facilitam o desenvolvimento e compartilhamento de seu projeto/código!
